@@ -20,7 +20,7 @@ export default class Home extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text>Seja bem vindo</Text>
-        <Button title='Conhecer personagens Star Wars' onPress={() => navigate('StarWars')}></Button>
+        <Button title='Conhecer personagens Star Wars' onPress={() => navigate('Star')}></Button>
       </View>
     );
   }
@@ -32,15 +32,5 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
+  }
 });

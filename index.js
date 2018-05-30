@@ -4,6 +4,10 @@ import { StackNavigator } from 'react-navigation';
 import Home from './Views/home.view';
 import StarWars from './Views/star-wars.view'
 
+
+import { YellowBox } from 'react-native';
+YellowBox.ignoreWarnings(['Warning: isMounted(...) is deprecated', 'Module RCTImageLoader', 'The StackNavigator function name is deprecated, please use createStackNavigator instead']);
+
 const routes = StackNavigator({
     Home: {
         screen: Home,
@@ -15,7 +19,7 @@ const routes = StackNavigator({
             }
         },
     },
-    StarsWars: {
+    Star: {
         screen: StarWars,
         navigationOptions: {
             headerTitle: 'Personagens',
