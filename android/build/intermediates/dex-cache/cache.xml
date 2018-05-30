@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6534b2c9fe751479983f097677e087677bc930e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f1cc0997012292a7cfb8be27ee7bbf217f0271d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_65a6be172aedaf51e64f81d6515092284966787a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_b7a1e392c1cf24c4bca97bc2b58a7a83f0b10c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a9426dcdc8d62e1902e264a5a5632d82ab0ad64e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_aee3fd5b35eaaf3c690ff8a9e7ebdaa561c123ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_22073024c5d1b1ce58f2ac764b825520d4dd40ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_940a67bb93ab90124aed1265bd3a53679d1c4111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_78209f9cce1bae28708e50f092466272fdd9704f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7282918887e45bc73c63e715d6125c2ddca74801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_14fae1a77f2be2f2022439cae16ded9a846d1769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0e36d0f9143da8514a2066d9048a7a48f3b9f259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_a18ccb840c15c53496d541d5302863fea592b314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2c7dbcd23d5477e804a8884ae7e1676ec5434ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_70f8afc0453129386df1446930058ccccbbc0912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_5419934af3ddce99fc088d94f2ea1df3c05bb6f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5a8209e2d96e97544aefa0cdda7593572b9ac735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2f3b5e0b9537c7db877cb28d49ee06f41aa16617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_2dce3d840fe41224c81fd7cc4c8a5c55f183f5f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_70e0b63bd2204febe04223cd02055013edd113c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/antonio/Documentos/pessoal/projetos/teste-react/minicurso/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_cc44a2cbe84a5a0aa8c2d1d44cde236d80ff998b.jar" />
+    </item>
+
+</items>
